@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6285754202785'] 
+global.owner = ['6288804947282'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Ainul'
-global.numberowner = '6285754202785'
+global.nameowner = 'Yamato'
+global.numberowner = '6288804947282'
 global.instagram = 'https://instagram.com/ainul_181'
 global.github = 'https://github.com/AinulBotz'
 global.dana = '08971724481'
@@ -13,9 +13,9 @@ global.pulsa = '08971724481'
 global.gopay = '08971724481'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'AinulBotz'
-global.gc = 'https://chat.whatsapp.com/DoB35RNfbW3AZgb0SmRNGY'
-global.web = 'https://chat.whatsapp.com/DoB35RNfbW3AZgb0SmRNGY' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'YamatoBot'
+global.gc = 'https://chat.whatsapp.com/JREOzRSaNxbCbzaNX4PxVV'
+global.web = 'https://chat.whatsapp.com/JREOzRSaNxbCbzaNX4PxVV' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 01.000\n2 Minggu 4.000\n1 Minggu 2.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -25,8 +25,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'AinulBotz'
 global.watermark = wm
-global.wm2 = '                     「 AinulBotz⁩ 」'
-global.wm3 = '⫹⫺ AinulBotz'
+global.wm2 = '                     「 YamatoBot⁩ 」'
+global.wm3 = '⫹⫺ YamatoBot'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/20b24c609e796b243d7b7.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = 'AinulBotz'
+global.author = 'YamatoBot'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
